@@ -1,5 +1,7 @@
 # Adapting LLM-SC to Living Sacred Heritage
 
+(https://ria-frontend.vercel.app)[Link to the site]
+
 Data, prompt and code for the paper *Adapting LLM-SC to Living Sacred Heritage: Domain-Specific Extraction, Semantic Networks and Human Evaluation on Pashupatinath Temple Reviews* by Pujan Pant, Sagar Newpane, Hari Sitaula and Manish Sakhakarmy.
 
 GPT-4o was used to extract entities, aspect-level sentiments and relations from 2,500 English-language Tripadvisor reviews of Pashupatinath Temple, Kathmandu, Nepal. The extracted relations were then turned into semantic networks.
