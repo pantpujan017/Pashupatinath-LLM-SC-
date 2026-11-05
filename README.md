@@ -15,7 +15,7 @@
 
 | Resource | Link |
 |---|---|
-| 📑 Preprint | [PASTE_PAPER_LINK_HERE]([PASTE_PAPER_LINK_HERE](https://arxiv.org/abs/2610.35685)) |
+| 📑 Preprint | [https://arxiv.org/abs/2610.35685](https://arxiv.org/abs/2610.35685) |
 | 💻 Code & derived data | [github.com/pantpujan017/Pashupatinath-LLM-SC-](https://github.com/pantpujan017/Pashupatinath-LLM-SC-) |
 | 🧾 Extraction prompt | [`taxonomy/extraction_prompt.txt`](taxonomy/extraction_prompt.txt) (also in Appendix A of the paper) |
 | 🌐 Site | [ria-frontend.vercel.app](https://ria-frontend.vercel.app) |
