@@ -27,8 +27,8 @@
 | Name | Affiliation | Contact |
 |---|---|---|
 | **Pujan Pant** * | Herald College Kathmandu, University of Wolverhampton, Nepal | pantpujan017@gmail.com |
-| **Sagar Newpane** | Herald College Kathmandu, University of Wolverhampton, Nepal | — |
-| **Hari Sitaula** | Dept. of Mathematical Sciences, Montana Technological University, USA | — |
+| **Sagar Newpane** | Herald College Kathmandu, University of Wolverhampton, Nepal | sagarnewpane@icloud.com |
+| **Hari Sitaula** | Dept. of Mathematical Sciences, Montana Technological University, USA | hsitaula@mtech.edu |
 | **Manish Sakhakarmy** * | ASI Industrial, Billings, MT, USA | sakhakarmym@gmail.com |
 
 \* Corresponding authors.
