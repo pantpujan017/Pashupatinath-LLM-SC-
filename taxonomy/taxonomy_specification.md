@@ -1,6 +1,6 @@
 # 12-Type Entity Taxonomy for Living Sacred Heritage
 
-Specification accompanying *Prompt-based knowledge acquisition for living sacred heritage: a domain-adaptive entity taxonomy and semantic network from visitor reviews.*
+Specification accompanying *Adapting LLM-SC to Living Sacred Heritage: Domain-Specific Extraction, Semantic Networks and Human Evaluation on Pashupatinath Temple Reviews*
 
 The taxonomy is applied **declaratively** — it is specified in the extraction prompt (`extraction_prompt.txt`), not learned from labelled training data. Four types are carried over from the original LLM-SC framework; eight are introduced here for sacred heritage and account for 64.8% of all extracted entities.
 
