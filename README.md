@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/Paper-Preprint-b31b1b.svg?style=for-the-badge)](PASTE_PAPER_LINK_HERE)
+[![Paper](https://img.shields.io/badge/Paper-Preprint-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2610.35685)
 [![Extraction Model](https://img.shields.io/badge/Extraction-GPT--4o-412991?style=for-the-badge)](#-methodology--pipeline)
 [![Domain](https://img.shields.io/badge/Domain-Living%20Sacred%20Heritage-e07b39?style=for-the-badge)](#-abstract)
 [![GitHub](https://img.shields.io/badge/GitHub-pantpujan017-181717?style=for-the-badge&logo=github)](https://github.com/pantpujan017)
