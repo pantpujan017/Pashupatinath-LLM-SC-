@@ -271,7 +271,7 @@ If you use this work, please cite:
   author  = {Pant, Pujan and Newpane, Sagar and Sitaula, Hari and Sakhakarmy, Manish},
   year    = {2026},
   note    = {Preprint},
-  url     = {PASTE_PAPER_LINK_HERE}
+  url     = {https://arxiv.org/abs/2610.35685}
 }
 ```
 
